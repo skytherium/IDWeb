@@ -1,1 +1,0 @@
-std:: in << 'Hello world'<< std::out
